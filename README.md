@@ -13,7 +13,7 @@ A GUI app to find deals on retro items (gaming, consoles, collectibles) from eBa
 
 Install dependencies:
 
-pip install customtkinter requests beautifulsoup4 tenacity
+pip install customtkinter requests beautifulsoup4 tenacity pandas
 
 Run the app:
 python main.py
