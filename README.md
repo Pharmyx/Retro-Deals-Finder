@@ -1,6 +1,6 @@
-# Retro-Deals-Finder
+# Retro-Vault
 
-A GUI app to find deals on retro items (gaming, consoles, collectibles) from eBay.
+A GUI app to find deals on retro items (gaming, consoles, collectibles) from eBay, and Etsy.
 
 ## Setup
 
