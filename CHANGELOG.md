@@ -1,6 +1,6 @@
 # CHANGELOG.md
 
-*** v2 Major Updates: ***
+***v2 Major Updates:***
 
 Updated the UI
 
